@@ -1,0 +1,13 @@
+names:
+- basketball
+- hoop
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: pappu-1joso
+  url: https://universe.roboflow.com/work-sxiv5/pappu-1joso/dataset/1
+  version: 1
+  workspace: work-sxiv5
+test: ../test/images
+train: ../train/images
+val: ../valid/images
